@@ -10,7 +10,6 @@ This project adds [AutoHotkey](http://ahkscript.org/) support to vim. It covers 
 
 ### NeoBundle
 1. Add the following configuration to your `.vimrc`.
-
 ```vim
 NeoBundle 'hnamikaw/vim-autohotkey'
 ```
