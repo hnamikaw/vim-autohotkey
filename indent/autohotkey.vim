@@ -1,7 +1,7 @@
 " Vim indent file
 " Language:   AutoHotkey
 " Maintainer: Hirotoshi Namikawa <hnamikaw1@gmail.com>
-" Version:    1.0
+" URL:        http://github.com/hnamikaw/vim-autohotkey
 " License:    Same as Vim.
 
 if exists('b:did_indent')
